@@ -8,7 +8,8 @@ See also
 *   **Logistic Regresssion** [GitHub](https://github.com/pythonuzgit/elmurodov_logisticRegression)
 *   **k Nearest Neighbors** [GitHub](https://github.com/pythonuzgit/elmurodov_kNearestNeighbors) 
 
-   **Support Vector Machine** [GitHub](https://github.com/pythonuzgit/samuz/blob/master    *          /Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
+*   **Support Vector Machine** [GitHub](https://github.com/pythonuzgit/samuz/blob/master  
+*          /Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
 
 *    **Naive Bayes** [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Naive%20Bayes%20Classification.ipynb)
 *   **K-Means** [GitHub](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
@@ -19,4 +20,3 @@ See also
 *   **Artificial Neural Network** [GitHub](https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
 
 
-[GitHub](https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
