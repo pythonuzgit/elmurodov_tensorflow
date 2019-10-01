@@ -1,4 +1,4 @@
-# TensorFlow
+# Deep Learning
 In practical terms, deep learning is just subset of machine learning. In fact, deep laerning technically is machine learning and functions in similar way. However, its capabilities are different. 
 A deep learning model is designed to continually analyze data with a logic structure similar to how a human would draw conclusions.
 
