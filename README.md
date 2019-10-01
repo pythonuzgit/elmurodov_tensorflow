@@ -13,6 +13,8 @@ Support Vector Machine [GitHub](https://github.com/pythonuzgit/samuz/blob/master
 
 Naive Bayes [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Naive%20Bayes%20Classification.ipynb)
 
+K-Means [GitHub](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
+
 Gaussian Mixture Model [GitHub](https://github.com/pythonuzgit/elmurodov_GaussianMixtureModel)
 
 
