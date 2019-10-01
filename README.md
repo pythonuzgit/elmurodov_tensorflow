@@ -4,9 +4,8 @@
 See also 
 #  Machine learning with Python <h1>
 
-****Linear Regresion**  [GitHub](https://github.com/pythonuzgit/elmurodov_linearregression)
-
-**Logistic Regresssion** [GitHub](https://github.com/pythonuzgit/elmurodov_logisticRegression)**
+****Linear Regresion**  [GitHub](https://github.com/pythonuzgit/elmurodov_linearregression)**
+****Logistic Regresssion** [GitHub](https://github.com/pythonuzgit/elmurodov_logisticRegression)**
 
 **k Nearest Neighbors** [GitHub](https://github.com/pythonuzgit/elmurodov_kNearestNeighbors)
 
