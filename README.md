@@ -19,3 +19,4 @@ See also
 *   **Artificial Neural Network** [GitHub](https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
 
 
+[GitHub](https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
