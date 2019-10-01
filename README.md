@@ -5,28 +5,28 @@ See also
 
 Linear Regression [GitHub](https://github.com/pythonuzgit/elmurodov_linearregression)
 
-Logistic Regresssion[GitHub] (https://github.com/pythonuzgit/elmurodov_logisticRegression)
+Logistic Regresssion[GitHub](https://github.com/pythonuzgit/elmurodov_logisticRegression)
 
-k Nearest Neighbors [GitHub] (https://github.com/pythonuzgit/elmurodov_kNearestNeighbors)
+k Nearest Neighbors [GitHub](https://github.com/pythonuzgit/elmurodov_kNearestNeighbors)
 
-Support Vector Machine [GitHub] (https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
-
-
+Support Vector Machine [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
 
 
 
 
-Naive Bayes[GitHub] (https://github.com/pythonuzgit/elmurodov_naiveBayes)
-
-Gaussian Mixture Model [GitHub] (https://github.com/pythonuzgit/elmurodov_GaussianMixtureModel)
 
 
-Random Forest[GitHub] (https://github.com/pythonuzgit/elmurodov_RandomForest)
+Naive Bayes [GitHub](https://github.com/pythonuzgit/elmurodov_naiveBayes)
 
-Principal Component Alalysis[GitHub] (https://github.com/pythonuzgit/elmurodov_PrincipialComponentAnalysis)
+Gaussian Mixture Model [GitHub](https://github.com/pythonuzgit/elmurodov_GaussianMixtureModel)
 
-[GitHub] (https://github.com/pythonuzgit/elmurodov_XGBoost)
 
-Artificial Neural Network [GitHub] (https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
+Random Forest [GitHub](https://github.com/pythonuzgit/elmurodov_RandomForest)
+
+Principal Component Alalysis [GitHub](https://github.com/pythonuzgit/elmurodov_PrincipialComponentAnalysis)
+
+[GitHub](https://github.com/pythonuzgit/elmurodov_XGBoost)
+
+Artificial Neural Network [GitHub](https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
 
 
