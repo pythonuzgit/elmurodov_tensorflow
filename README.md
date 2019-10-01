@@ -2,7 +2,7 @@
 In practical terms, deep learning is just subset of machine learning. In fact, deep laerning technically is machine learning and functions in similar way. However, its capabilities are different. 
 A deep learning model is designed to continually analyze data with a logic structure similar to how a human would draw conclusions.
 
-   ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRBWb3jaDE4W1-U4ItvjfQDHUep4IWN3G9rBMMAE1rS32L33Dmw)
+   ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNDgjK5UdU6-YMYoovhOb4ld-7pLn5DZjUywFwCYfNUy1C9nTzA)
 
 Deep learning applications use a layered structure of algorithm called an artificial neural network. The design of an artificial neural network is inspired by the boilogical of the human train, leading to a process of learning that's far more capable that of standard machine learning models. 
 
