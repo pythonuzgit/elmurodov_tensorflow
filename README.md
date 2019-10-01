@@ -1,7 +1,7 @@
 # TensorFlow
 
 
-See also
+See also Machine learning
 
 Linear Regression [GitHub](https://github.com/pythonuzgit/elmurodov_linearregression)
 
@@ -10,11 +10,6 @@ Logistic Regresssion[GitHub](https://github.com/pythonuzgit/elmurodov_logisticRe
 k Nearest Neighbors [GitHub](https://github.com/pythonuzgit/elmurodov_kNearestNeighbors)
 
 Support Vector Machine [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
-
-
-
-
-
 
 Naive Bayes [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Naive%20Bayes%20Classification.ipynb)
 
@@ -25,7 +20,7 @@ Random Forest [GitHub](https://github.com/pythonuzgit/elmurodov_RandomForest)
 
 Principal Component Alalysis [GitHub](https://github.com/pythonuzgit/elmurodov_PrincipialComponentAnalysis)
 
-[GitHub](https://github.com/pythonuzgit/elmurodov_XGBoost)
+XGBoost [GitHub](https://github.com/pythonuzgit/elmurodov_XGBoost)
 
 Artificial Neural Network [GitHub](https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
 
