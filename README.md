@@ -9,6 +9,12 @@ Logistic Regresssion[GitHub] (https://github.com/pythonuzgit/elmurodov_logisticR
 
 k Nearest Neighbors [GitHub] (https://github.com/pythonuzgit/elmurodov_kNearestNeighbors)
 
+Support Vector Machine [GitHub] (https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
+
+
+
+
+
 
 Naive Bayes[GitHub] (https://github.com/pythonuzgit/elmurodov_naiveBayes)
 
@@ -18,5 +24,9 @@ Gaussian Mixture Model [GitHub] (https://github.com/pythonuzgit/elmurodov_Gaussi
 Random Forest[GitHub] (https://github.com/pythonuzgit/elmurodov_RandomForest)
 
 Principal Component Alalysis[GitHub] (https://github.com/pythonuzgit/elmurodov_PrincipialComponentAnalysis)
+
+[GitHub] (https://github.com/pythonuzgit/elmurodov_XGBoost)
+
+Artificial Neural Network [GitHub] (https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
 
 
