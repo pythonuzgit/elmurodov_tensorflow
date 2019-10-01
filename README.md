@@ -16,7 +16,7 @@ Support Vector Machine [GitHub](https://github.com/pythonuzgit/samuz/blob/master
 
 
 
-Naive Bayes [GitHub](https://github.com/pythonuzgit/elmurodov_naiveBayes)
+Naive Bayes [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Naive%20Bayes%20Classification.ipynb)
 
 Gaussian Mixture Model [GitHub](https://github.com/pythonuzgit/elmurodov_GaussianMixtureModel)
 
