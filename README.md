@@ -22,3 +22,4 @@ Deep learning applications use a layered structure of algorithm called an artifi
 *   **Artificial Neural Network** [GitHub](https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
 
 
+ 
