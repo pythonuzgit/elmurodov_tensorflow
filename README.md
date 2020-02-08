@@ -7,6 +7,15 @@ A deep learning model is designed to continually analyze data with a logic struc
 Deep learning applications use a layered structure of algorithm called an artificial neural network. The design of an artificial neural network is inspired by the boilogical of the human train, leading to a process of learning that's far more capable that of standard machine learning models. 
 
 
+
+# See also NAtural Language Processing with python
+
+**Text Classification** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process)
+
+
+
+
+
 # See also   Machine learning with Python <h1>
 
 *   **Linear Regresion**  [GitHub](https://github.com/pythonuzgit/elmurodov_linearregression)
