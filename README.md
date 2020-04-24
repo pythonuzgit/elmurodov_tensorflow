@@ -10,7 +10,7 @@ Deep learning applications use a layered structure of algorithm called an artifi
 
 * **Deep learning for Natural language processing.ipynb**[Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
 
-* **Generating text using a recurrent neural network.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
+* **Generating text using a recurrent neural network.ipynb** [Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
 
 
 # See also Natural Language Processing with python
