@@ -16,6 +16,9 @@ Deep learning applications use a layered structure of algorithm called an artifi
 * **Text Generation using LSTM RNN with Keras** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20using%20LSTM%20RNN%20with%20Keras.ipynb)
 
 
+* **Text generation using Recuurent neural network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
+
+
 
 
 # See also Natural Language Processing with python
